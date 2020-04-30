@@ -3,3 +3,10 @@ init message in frist branch
 ck insert1
 yb insert1
 
+master insert2
+master insert2
+
+
+master
+master
+
