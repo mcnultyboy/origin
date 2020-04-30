@@ -1,20 +1,3 @@
-init message in frist branch
-ck insert1
-yb insert1
-
-master insert2
-master insert2
-
-
-master
-master
-yb insert2
-yb insert2
-yb insert2
-bbbbbbbbbbb
-bbbbbbbbbbbb
-aaaaaaaaaaa
-aaaaaaaaaaaaaa
-
+bbbbbb
 
 
